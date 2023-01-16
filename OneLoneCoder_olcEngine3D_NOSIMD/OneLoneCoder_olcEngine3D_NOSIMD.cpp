@@ -132,7 +132,7 @@ class olcEngine3D : public olc::PixelGameEngine
 public:
 	olcEngine3D()
 	{
-		sAppName = "3D World Demo Using SIMD";
+		sAppName = "3D World Demo No SIMD";
 	}
 
 
